@@ -28,7 +28,7 @@
 ---
 
 <h3 align="center">🛠️ My Skills:</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;"> 
+<p align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;"> 
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
