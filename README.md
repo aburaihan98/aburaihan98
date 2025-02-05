@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/wNgr9txF/github-cover.png" alt="cover photo" />
+  <img src="https://i.postimg.cc/xTXt14x2/github-cover.png" alt="cover photo" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aburaihan98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -21,14 +21,6 @@
 🌱 Exploring and learning **Next.js**  
 🚀 Diving into **Redux** to enhance my skills  
 💬 Ask me about **React, Express.js, MongoDB**  
-
----
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=aburaihan98">
-    <img src="https://github-profile-trophy.vercel.app/?username=aburaihan98&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
@@ -104,7 +96,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aburaihan98&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aburaihan98&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=aburaihan98&theme=radical" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aburaihan98&layout=compact&theme=radical" alt="Top Languages" />
