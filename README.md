@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abu Raihan</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
-
+<p align="center">
+  <img src="https://i.ibb.co.com/wNgr9txF/github-cover.png" alt="cover photo" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aburaihan98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
