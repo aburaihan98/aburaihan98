@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/xTXt14x2/github-cover.png" alt="cover photo" />
+  <img src="https://i.ibb.co.com/6cW1YBDX/banner-2.png" alt="cover photo" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aburaihan98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
